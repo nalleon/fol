@@ -1,6 +1,15 @@
+<div align="justify">
 *Nabil León Álvarez 1º DAM.*
 
+## Índice
+- [Supuesto](#supuesto)
+- [Actividad 1](#actividad-1)
+- [Actividad 2](#actividad-2)
+- [Actividad 3](#actividad-3)
+- [Acticidad 4](#actividad-4)
 
+
+## Supuesto:
 ```
 Juan, técnico superior en Desarrollo de Aplicaciones Web, tiene un contrato de interinidad por vacante en una empresa de sistemas informáticos de una Comunidad Autónoma y desempeña su actividad como Técnico Superior en DAW para el departamento de servicios a la pequeña empresa.
 
@@ -21,7 +30,8 @@ Juan pasa muchas horas inclinado sobre la mesa de trabajo, algunas veces tiene q
 
 Hoy han faltado la mitad de sus compañeros por una epidemia de gripe. Juan cree que también la ha pillado, tiene dolor de cabeza y malestar general. Pero no sabe si será la gripe, pues la verdad es que desde hace algún tiempo se siente muy agotado, como si le faltara energía, siente que no puede con el trabajo y tiene una gran sensación de tristeza y baja autoestima.
 ```
-## Actividad 1. Debes identificar al menos:
+## Actividad 1: 
+### Debes identificar al menos:
 ### - Tres riesgos derivados de las condiciones de seguridad.
 ### - Tres riesgos derivados de las condiciones ambientales.
 ### - Tres riesgos derivados de las condiciones ergonómicas.
