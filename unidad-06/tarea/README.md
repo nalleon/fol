@@ -1,5 +1,6 @@
 <div align="justify">
-*Nabil León Álvarez 1º DAM.*
+
+*Nabil L. A. 1º DAM.*
 
 ## Índice
 - [Supuesto](#supuesto)
@@ -13,10 +14,7 @@
 ```
 Juan, técnico superior en Desarrollo de Aplicaciones Web, tiene un contrato de interinidad por vacante en una empresa de sistemas informáticos de una Comunidad Autónoma y desempeña su actividad como Técnico Superior en DAW para el departamento de servicios a la pequeña empresa.
 
-Su jornada es de 35 horas semanales, siendo su distribución horaria: Lunes – Viernes: 9.00 a 14.00 horas y de 15.00 a 17.00 horas.
-
-Dispone de una hora diaria para almorzar.
-Tiene un salario mensual de 900,35 € más dos pagas extras.
+Su jornada es de 35 horas semanales, siendo su distribución horaria: Lunes – Viernes: 9.00 a 14.00 horas y de 15.00 a 17.00 horas. Dispone de una hora diaria para almorzar. Tiene un salario mensual de 900,35 € más dos pagas extras.
 
 La dirección de la empresa supervisa constantemente el trabajo de los Técnicos Superiores, ejerciendo una gran presión sobre todo al personal del departamento de servicios a la pequeña empresa. Amonestan a los trabajadores y trabajadoras verbalmente o por escrito en el momento en el que toman decisiones, sin que éstas sean consultadas a la dirección.
 
@@ -81,3 +79,4 @@ La instalación de un aire acondicionado junto con unos conductos de ventilació
 
 La  implementación de un mobiliario más ergonómico y pausas tras varias sesiones de trabajo reducirán en gran medida los dolores físicos debidos a la posición que el empleado debe de adoptar para cumplir con su función. Además, ya que hay cierta necesidad de desplazamiento de objetos se deberían de proporcionar unas herramientas que facilitaran esta carga e incluso el conocimiento de técnicas en relación a esta. El estrés y agotamiento de los trabajadores se vería extremadamente reducido al reducir la presión por parte de los superiores, en este caso una consulta previa de las decisiones ayudaría de una forma bastante adecuada.
 
+</div>
